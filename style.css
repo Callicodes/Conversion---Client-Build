@@ -1,0 +1,158 @@
+.lightbox{
+
+
+}
+
+
+.lightbox {
+				text-align: center;
+				color: #fff;
+				margin: 0 auto;
+				background-image: url('image.png');
+				/* box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.5); */
+				width: 550px;
+				height: 350px;
+				position:  relative;
+				/* margin-bottom: 14px; */
+				}
+
+
+.big-text {font-family: 'Amatic SC';color:  #ffffff;font-size: 94px;/* Approximation due to font substitution */font-weight: 700;line-height: 18px;/* Approximation due to font substitution */text-align: center;text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.4);padding-top: 89px;padding-bottom:  0px;margin-bottom: 53px;}
+
+.offer {
+
+/* float: left; */
+
+margin: -32px 190px;
+
+border-style: solid;
+
+border-width: 5px;
+
+border-color:  #ffffff;
+
+box-sizing: border-box;
+
+background-color:  #ffffff;
+
+box-shadow: 1px 2px 5px 0px rgba(0, 0, 0, 0.3);
+/* Layer contains multiple layer styles that cannot be represented in CSS. Use the color picker or extract the layer as an image. */
+
+width: 185px;
+
+height: 85px;
+
+padding-top: -44px;
+
+z-index: 999;
+
+position: absolute;
+
+/* margin-bottom: 0px; */
+
+/* margin-top: -38px; */
+
+/* margin: -38px auto; */
+
+font-family: "HelveticaNeue", Roboto, sans-serif;
+
+font-size: 16px;/* Approximation due to font substitution */
+
+font-weight: 400;
+
+line-height: 18px;/* Approximation due to font substitution */
+
+text-align: center;
+
+color: #666666;
+}
+
+.subscribe {font-family: 'Roboto', sans-serif;font-size: 20px;}
+
+.input {
+    font-family: HelveticaNeue;
+    color:  #aaaaaa;
+    font-size: 20px;/* Approximation due to font substitution */
+    font-weight: 400;
+    line-height: 18px;/* Approximation due to font substitution */
+    text-align: center;
+    border-radius: 3px;
+    background-color:  #ffffff;
+    width: 460px;
+    height: 44px;
+}
+
+.discount{padding-top: -193px;display:  block;padding-top:  10px;text-underline-position: none;}
+
+
+.button {
+    
+color:  #ffffff;
+    
+font-size: 20px;/* Approximation due to font substitution */
+    
+font-weight: 700;
+    
+line-height: 18px;/* Approximation due to font substitution */
+    
+text-align: center;
+    
+text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.3);
+    
+background-color:  #f49c00;
+    
+/* background: -webkit-linear-gradient(90deg, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.2) 100%); */
+    
+background: -moz-linear-gradient(90deg, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.2) 100%);
+    
+background: -o-linear-gradient(90deg, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.2) 100%);
+    
+background: -ms-linear-gradient(90deg, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.2) 100%);
+    
+/* background: linear-gradient(0deg, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.2) 100%); */
+    
+box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.3);  /* Layer contains multiple layer styles that cannot be represented in CSS. Use the color picker or extract the layer as an image. */
+    
+width: 290px;
+    
+height: 43px;
+    
+display:  block;
+    
+margin: 0 auto;
+    
+margin-top: 17px;
+    
+text-decoration:  none;
+}
+
+.lorem {
+
+font-family: 'Myriad Pro', Roboto, sans-serif;
+
+color:  #ffffff;
+
+font-size: 11px;
+
+font-weight: 400;
+
+text-align: center;
+
+margin-left: 15px;
+}
+
+
+body {
+  background: #222;
+}
+
+#time {
+    font-family: Helvetica;
+    color:  #f49e00;
+    font-size: 40px;/* Approximation due to font substitution */
+    font-weight: 700;
+    line-height: 18px;/* Approximation due to font substitution */
+    text-align: center;
+    display:  block;
+    padding-top: 18px;
+}
